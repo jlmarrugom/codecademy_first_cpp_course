@@ -1,5 +1,4 @@
 #include <iostream>
-#include<string.h>
 
 bool is_palindrome(std::string text){
   for (int i=0;i<text.length();i++){
